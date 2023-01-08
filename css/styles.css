@@ -1,0 +1,18 @@
+/*
+.color1 {color: #252525;}
+.color2 {color: #052a45;}
+.color3 {color: #0c6395;}
+.color4 {color: #00a6f1;}
+.color5 {color: #00f1ff;}
+**/
+body{
+    background-color: #052a45;
+}
+
+.title{
+    color: #00a6f1;
+}
+
+.card-background{
+    background-color: #0c6395;
+}
